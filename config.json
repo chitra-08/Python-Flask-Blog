@@ -6,7 +6,7 @@
       "prod_uri": "mysql+pymysql://uname:pwd@somehost/chitrablog",
       "fb_url": "https://www.facebook.com",
       "tw_url": "https://www.twitter.com",
-      "gh_url": "https://github.com/chitra-08/",
+      "gh_url": "https://github.com/chitra-08/keep-learning",
       "blog_name": "Chitra's Blog",
       "user_name": "email id",
       "password": "password",
@@ -14,6 +14,6 @@
       "no_of_posts": 2,
       "admin_user": "admin@abc.com",
       "admin_pwd": "admin",
-      "upload_location": "upload location"
+      "upload_location": "C:\\Users\\cmethwan\\IdeaProjects\\BlogSite-UsingFlask\\static"
   }
 }
