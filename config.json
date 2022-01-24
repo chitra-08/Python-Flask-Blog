@@ -1,0 +1,19 @@
+{
+  "params":
+  {
+      "local_server" : "True",
+      "local_uri": "mysql+pymysql://root:@localhost/chitrablog",
+      "prod_uri": "mysql+pymysql://uname:pwd@somehost/chitrablog",
+      "fb_url": "https://www.facebook.com",
+      "tw_url": "https://www.twitter.com",
+      "gh_url": "https://github.com/chitra-08/",
+      "blog_name": "Chitra's Blog",
+      "user_name": "email id",
+      "password": "password",
+      "about_me": "Hello folks, My name is Chitra and I am here to tell you my side of the story.",
+      "no_of_posts": 2,
+      "admin_user": "admin@abc.com",
+      "admin_pwd": "admin",
+      "upload_location": "upload location"
+  }
+}
